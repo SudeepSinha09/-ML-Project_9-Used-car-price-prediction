@@ -1,8 +1,8 @@
 # ML-Project_9-Used-car-price-prediction
 ### Data Details 
-
-    Kaggle - https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.csv
-    Colab Notebook - https://colab.research.google.com/drive/1RZm65akz-VqAvdZyKpFehEUbmz6cNKB7?usp=sharing
+   
+   Kaggle - https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.csv  
+   Colab Notebook - https://colab.research.google.com/drive/1RZm65akz-VqAvdZyKpFehEUbmz6cNKB7?usp=sharing
        
 #### Please use the Ipynb file in the repository for a detailed explanation of this project. This is because the project has been completed and the steps have been written in the notebook referenced in the repository.
 Link - https://github.com/SudeepSinha09/ML-Project_9-Used-car-price-prediction/blob/main/Used%20car%20price%20prediction.ipynb
